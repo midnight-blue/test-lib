@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <scm>
-    <developerConnection>scm:git</developerConnection>
+    <developerConnection>scm:git:git@github.com:midnight-blue/test-lib.git</developerConnection>
   </scm>
   <name>test-lib</name>
   <url>http://maven.apache.org</url>
