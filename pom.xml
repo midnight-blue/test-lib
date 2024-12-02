@@ -3,13 +3,13 @@
 
   <groupId>org.example</groupId>
   <artifactId>test-lib</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
   <packaging>jar</packaging>
 
   <scm>
     <connection>scm:git:git@github.com:midnight-blue/test-lib.git</connection>
     <developerConnection>scm:git:git@github.com:midnight-blue/test-lib.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>test-lib-1.1</tag>
   </scm>
   <name>test-lib</name>
   <url>http://maven.apache.org</url>
